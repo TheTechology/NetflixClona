@@ -1,4 +1,4 @@
-# Netflix-Clona
+# Netflix Clona
 
 <a href="https://cosmin-panescu.github.io/Netflix-Clone/">Live Project</a>
 
